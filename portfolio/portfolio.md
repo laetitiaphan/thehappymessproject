@@ -1,9 +1,9 @@
 ---
-
 permalink: /portfolio.html
 layout: portfolio
-
+published: true
 ---
+![Screen Shot 2019-06-11 at 11.17.57 PM.png]({{site.baseurl}}/portfolio/Screen Shot 2019-06-11 at 11.17.57 PM.png)
 
 
 
