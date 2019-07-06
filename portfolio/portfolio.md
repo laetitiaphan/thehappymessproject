@@ -1,8 +1,12 @@
 ---
+
 permalink: /portfolio.html
 layout: portfolio
 published: true
+
 ---
+
+
 <img class="masonry-brick" alt="je suis heureux.se" src="./portfolio/Scan.jpeg">
 
 <img class="masonry-brick" alt="comforting" src="./portfolio/CP2S%20Illus%207B%20-%20Apre%CC%80s%20les%20violences.jpeg">
